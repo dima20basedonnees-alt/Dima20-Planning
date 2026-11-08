@@ -1,0 +1,8 @@
+{
+  "name": "Dima20 Planning",
+  "short_name": "Dima20",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf7f3",
+  "theme_color": "#f26a0f"
+}
